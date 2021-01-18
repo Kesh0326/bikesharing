@@ -7,7 +7,7 @@ To perform an analysis of bike sharing data in NewYork City to understand and de
 
 ##### Number of bikes checked out is highest for a trip duration of ~5 hrs
 
-![Checkout Times for Users](Images/Checkout Times for Users.png)
+![Checkout Times for Users](Checkout Times for Users.png)
 
 ##### 2 PM to 7 PM is the most popular 5 hr window for checking out bikes
 
