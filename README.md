@@ -31,7 +31,7 @@ To perform an analysis of bike sharing data in NewYork City to understand and de
 
 ##### Trend for Males and Females are similar in that the most popular time to rent a bike is on Thursdays between 5 PM and 6 PM, but for the unknown category, the most popular time to rent a bike is around mid-day Saturday
 
-![Trips by Gender (Weekday per Hour)(https://github.com/Kesh0326/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
+![Trips by Gender - Weekday per Hour](https://github.com/Kesh0326/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 ##### Most of the Male and Female riders are subscribers and Thursday, Friday and Tuesday (in that order) are the most popular rental times for these groups of users. However, most of the Unknown riders are in the customer category with Saturday being their most popular time to rent a bike
 
