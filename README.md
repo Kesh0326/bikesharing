@@ -38,3 +38,8 @@ To perform an analysis of bike sharing data in NewYork City to understand and de
 ![User trips by Gender by Weekday](https://github.com/Kesh0326/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 ## Summary
+For over 90% of the users, the most popular bike rental day in New York City is Thursdays, for a time duration of 5-6 hours between 2 PM to 7 PM. Over 65% of the total user base is Male, 25% Female, with the rest unknown. A couple of additional visualizations that can provide more information on how the NYC analysis can translate to Des Moines:
+
+- Mapping age of user base against gender can provide more information on which target market to focus on
+- Mapping visualizations for other cities, perhaps that are closer in population and other areas of similarity to Des Moines can provide a clearer picture of whether a bike sharing venture can be profitable in a smaller/less touristy location
+
